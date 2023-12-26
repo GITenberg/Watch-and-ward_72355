@@ -1,0 +1,36 @@
+_repo: Watch-and-ward_72355
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: https://en.wikipedia.org/wiki/Henry_James
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Watch_and_Ward
+
+  First published in the Atlantic monthly, 1871.'
+gutenberg_issued: '2023-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72355'
+  lccn: '10004181'
+language: en
+pgterms:marc904: https://archive.org/details/watchward1878jame
+pgterms:marc905: 20231207164507james
+pgterms:marc906: '1878'
+pgterms:marc907: us
+production_note: Al Haines
+publication_note: '  $aBoston :$bHoughton, Osgood and Company, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Watch and ward
+url: http://www.gutenberg.org/ebooks/72355
