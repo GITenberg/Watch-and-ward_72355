@@ -1,5 +1,8 @@
 _repo: Watch-and-ward_72355
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72355-h/images/img-cover.jpg
 creator:
   author:
     agent_name: James, Henry
@@ -11,6 +14,8 @@ creator:
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Watch_and_Ward
 
   First published in the Atlantic monthly, 1871.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72355#Watch-and-ward
 gutenberg_issued: '2023-12-08'
 gutenberg_type: Text
 identifiers:
